@@ -1,0 +1,20 @@
+{
+  "name": "mongoose-checkpoint",
+  "version": "1.0.0",
+  "description": "Mongoose checkpoint project for database operations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["mongoose", "mongodb", "database"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^7.6.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
